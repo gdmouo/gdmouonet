@@ -6,6 +6,11 @@ body {
   font-weight:400;
 }
 
+.blog-page {
+    background-color: #0f172a;
+    color: #e2e8f0;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color:#2c2b2b;
   margin:0 0 20px;
