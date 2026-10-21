@@ -6,6 +6,11 @@ body {
   font-weight:400;
 }
 
+.my-text {
+    font-family: Arial, sans-serif;
+    font-size: 900px;
+}
+
 .blog-page {
     background-color: #2c2b2b;
     color: #fff;
